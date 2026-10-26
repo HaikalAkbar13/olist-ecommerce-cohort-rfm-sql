@@ -1,0 +1,10 @@
+Customer Segment,Total Customers,% Customers,Total Revenue,% Revenue,Avg Last Purchase (Days),Avg Order Frequency,Avg Spend (ARPU)
+Potential Loyalists,14408,15.43,4352104.91,28.22,91.9,1.00,302.06
+Hibernating,18111,19.40,2967609.98,19.24,316.4,1.00,163.86
+Lost,18236,19.53,2918234.20,18.92,474.0,1.00,160.03
+Customers Needing Attention,18070,19.36,2735027.83,17.73,220.5,1.00,151.36
+Promising,10851,11.62,793976.00,5.15,135.6,1.00,73.17
+Recent Customers,10880,11.65,791151.64,5.13,45.2,1.00,72.72
+Champions,985,1.06,366846.94,2.38,88.9,2.18,372.43
+At Risk,997,1.07,294583.92,1.91,381.8,2.08,295.47
+Loyal Customers,819,0.88,202926.35,1.32,183.5,2.07,247.77

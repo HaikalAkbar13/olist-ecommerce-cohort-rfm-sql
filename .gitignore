@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Raw dataset files (downloaded via Kaggle Olist dataset)
+data/raw/*.csv
+!data/raw/.gitkeep
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Notes
+notes/
